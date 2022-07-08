@@ -25,4 +25,4 @@ The basic guidelines for contributing are as follows:
 - Create Pull Request against `develop` branch
 - Add a suitable title and description to the pull request and tag the issue number in Pull Request description, if the pull request is related to some issue logged here: [Issues](https://github.com/ksaurabh4/useful-info/issues)
 - You're done. Wait for your code to get reviewed and merged
-- Optional: Give us a :star: if you like our work :smile:
+- Optional: Don't forget to add a :star: if you like the work :smile:
